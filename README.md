@@ -1,1 +1,1 @@
-<img align="right" alt="Coding" width="400" src="1500x500.jpeg">
+<img align="center" alt="Cover" width="2000" src="Cover.png">
